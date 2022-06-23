@@ -2,4 +2,4 @@
 
 📚 I am student at General Assembly, studying software development!
 
-🖇 Lets Connect | LinkedIn @ aldopaganijr
+🎥 Photographer | Videographer
