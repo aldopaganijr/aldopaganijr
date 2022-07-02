@@ -3,7 +3,7 @@
 
 - 👨‍💻 All my projects are linked here! [https://aldopaganijr.netlify.app](https://aldopaganijr.netlify.app)
 
-- 📫 How to reach me? **https://www.linkedin.com/in/aldo-pagani-jr-a4025923a/**
+- 📫 How to reach me? **https://www.linkedin.com/in/aldopaganijr/**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/10iUKW3N3Jh1afxzM6XJ0rTzDN7mBSK3GDA6hMwbKTbU/edit?usp=sharing](https://docs.google.com/document/d/10iUKW3N3Jh1afxzM6XJ0rTzDN7mBSK3GDA6hMwbKTbU/edit?usp=sharing)
 
