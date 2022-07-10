@@ -1,4 +1,5 @@
-![IMG_4889 copy Large](https://user-images.githubusercontent.com/105445990/178154350-95deabec-2c67-4087-85a0-5bde668f8598.jpeg)
+
+![IMG_2047 Large](https://user-images.githubusercontent.com/105445990/178154415-974c87f2-c079-41fd-91e4-a091a111f35f.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm Aldo Pagani Jr.</h1>
