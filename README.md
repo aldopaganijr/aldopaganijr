@@ -1,3 +1,6 @@
+![IMG_4889 copy Large](https://user-images.githubusercontent.com/105445990/178154350-95deabec-2c67-4087-85a0-5bde668f8598.jpeg)
+
+
 <h1 align="center">Hi 👋, I'm Aldo Pagani Jr.</h1>
 <h3 align="center">Full Stack developer looking to innovate!</h3>
 
