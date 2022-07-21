@@ -8,7 +8,7 @@
 
 - 📫 How to reach me? **https://www.linkedin.com/in/aldopaganijr/**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KDAdKg7_5qNBZSWqIgVHVtFTTIVaSe7Bnib74atUlBY/edit?usp=sharing](https://docs.google.com/document/d/1KDAdKg7_5qNBZSWqIgVHVtFTTIVaSe7Bnib74atUlBY/edit?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/195KI1bhS0esSrnAGQ0itiscxHlIhEOmR/view?usp=sharing
 
 - ⚡ Fun fact **node modules suck**
 
