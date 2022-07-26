@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aldo Pagani Jr.</h1>
-<h3 align="center">React Developer</h3>
+<h3 align="center">React Developer | FrontEnd Developer</h3>
 
 ![home](https://user-images.githubusercontent.com/105445990/180651978-57682ceb-9895-4130-9815-1927abae6e10.jpeg)
 
