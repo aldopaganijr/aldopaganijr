@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/195KI1bhS0esSrnAGQ0itiscxHlIhEOmR/view?usp=sharing
 
-- 💻 Currently learning Vue, Angular, UX/UI Design! 
+- 💻 Currently learning Vue & UX/UI Design! 
 
 - ⚡ Fun fact **node modules suck**
 
