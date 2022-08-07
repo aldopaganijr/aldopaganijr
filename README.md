@@ -5,6 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Developer | Frontend Developer
 ------------------------------------
 
+![react Medium](https://user-images.githubusercontent.com/105445990/183270667-aa1db909-301d-4bc9-9509-f3f34c056d1e.jpeg)
+
+
 * 🌍  I'm based in NYC
 * 🖥️  See my portfolio at [https://aldopaganijr.netlify.app/](http://https://aldopaganijr.netlify.app/)
 * ✉️  You can contact me at [aldojpagani@gmail.com](mailto:aldojpagani@gmail.com)
