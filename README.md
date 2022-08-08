@@ -11,7 +11,7 @@ React Developer | Frontend Developer
 * 🌍  I'm based in NYC
 * 🖥️  See my portfolio at https://aldopaganijr.netlify.app/
 * ✉️  You can contact me at [aldojpagani@gmail.com](mailto:aldojpagani@gmail.com)
-* 🧠  I'm learning Vue and Svelte
+* 🧠  I'm learning Vue & Svelte & Angular
 * ⚡  Fun fact: node modules suck
 
 ### Skills
