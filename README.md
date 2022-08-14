@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aldo Pagani Jr.
 =======================================================================================================================================
 
-React Developer | Frontend Developer
+Frontend Developer | Creative Director
 ------------------------------------
 
 ![Dark Red White Black Digital Nomad  YouTube Banner](https://user-images.githubusercontent.com/105445990/184558922-af91c404-56b7-4c38-b061-727bc8cfaf62.jpg)
