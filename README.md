@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Developer | Frontend Developer
 ------------------------------------
 
-![react Medium](https://user-images.githubusercontent.com/105445990/183270667-aa1db909-301d-4bc9-9509-f3f34c056d1e.jpeg)
+![Dark Red White Black Digital Nomad  YouTube Banner](https://user-images.githubusercontent.com/105445990/184558922-af91c404-56b7-4c38-b061-727bc8cfaf62.jpg)
 
 
 * 🌍  I'm based in NYC
