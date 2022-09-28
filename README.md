@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a front-end developer who always keeps a student mindset and loves seeking a challenge. My day to day mission is to create content that will actually teach people how to code the right way! #ZerotoMastery
+I am a front-end developer who always keeps a student mindset and loves seeking a challenge. My day to day mission is to create content that will actually teach people how to code the right way! #ZeroToMastery
 
 
 ## 🌐 Socials:
