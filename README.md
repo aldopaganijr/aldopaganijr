@@ -1,4 +1,4 @@
-# 💫 Aldo Pagani jr (Frond-End Developer | Creative Director)
+# 💫 Aldo Pagani Jr
 I am a front-end developer who always keeps a student mindset and loves seeking a challenge. My day to day mission is to create content that will actually teach people how to code the right way! #ZeroToMastery
 
 
