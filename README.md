@@ -1,8 +1,8 @@
-# Aldo Pagani Jr
-I am a front-end developer who always keeps a student mindset and loves seeking a challenge. My day to day mission is to create content that will actually teach people how to code the right way! #ZeroToMastery
 
 ![Black and White Modern Linkedin Banner](https://user-images.githubusercontent.com/105445990/196738896-3306b79d-c706-4664-8646-b842e56a5d62.png)
 
+# Aldo Pagani Jr
+I am a front-end developer who always keeps a student mindset and loves seeking a challenge. My day to day mission is to create content that will actually teach people how to code the right way! #ZeroToMastery
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldopaganijr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aldopaganijr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ZerotoMastery) 
