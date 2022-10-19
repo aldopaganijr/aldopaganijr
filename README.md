@@ -1,4 +1,4 @@
-# 💫 Aldo Pagani Jr
+# Aldo Pagani Jr
 I am a front-end developer who always keeps a student mindset and loves seeking a challenge. My day to day mission is to create content that will actually teach people how to code the right way! #ZeroToMastery
 
 ![Black and White Modern Linkedin Banner](https://user-images.githubusercontent.com/105445990/196738896-3306b79d-c706-4664-8646-b842e56a5d62.png)
