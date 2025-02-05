@@ -4,6 +4,8 @@
 # Aldo Pagani Jr
 I am a front-end developer who always keeps a student mindset and loves seeking a challenge. My day to day mission is to create content that will actually teach people how to code the right way! #ZeroToMastery
 
+<a href="https://app.daily.dev/aldopaganijr"><img src="https://api.daily.dev/devcards/v2/DCa9uXvz1i8hDrgPIOx0N.png?r=aqm" width="356" alt="Aldo Pagani Jr.'s Dev Card"/></a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldopaganijr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aldopaganijr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ZerotoMastery) 
 
