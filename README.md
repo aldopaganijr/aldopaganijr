@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/aldopaganijr"><img src="https://api.daily.dev/devcards/v2/DCa9uXvz1i8hDrgPIOx0N.png?r=aqm" width="356" alt="Aldo Pagani Jr.'s Dev Card"/></a>
 
 # 💫 About Me:
-🌱 I’m currently learning **Dart** and **Flutter**  <br>⚡ Fun fact: I’ve traveled to **12 countries** — and counting!
+🌱 I’m currently learning **Flutter**  <br>⚡ Fun fact: I’ve traveled to **12 countries** — and counting!
 
 
 ## 🌐 Socials:
