@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I’m originally from the U.S. but I’ve been traveling for the past 4 years!<br><br>🔭 I’m currently working as a Creative Director<br>📚 I’m learning to build more complex projects<br>⚡ In my free time I... this is what I do in my freetime.</p>
+<p align="left">I’m originally from the U.S. but I’ve been traveling for the past 4 years!<br><br>🔭 I’m currently working as a Head of Media<br>📚 I’m learning to build more complex projects<br>⚡ In my free time I... this is what I do in my freetime.</p>
 
 ###
 
