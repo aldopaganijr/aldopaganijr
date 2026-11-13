@@ -1,13 +1,17 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif" height="130" alt="Welcome GIF" />
+<img src="./images/profile.jpg" width="100%" alt="Aldo Pagani" />
+
+<br><br>
 
 # Hey, I'm Aldo 👋
 
 **AI Instructor · Content Strategist · Developer**
 
 I make technology easier to understand, one project at a time.
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldopaganijr/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZeroToMastery)
@@ -35,9 +39,19 @@ Right now, much of my work revolves around AI, particularly Claude and Claude Co
 
 ## 🚀 Featured Course
 
+<div align="center">
+
+<a href="https://zerotomastery.io/courses/claude-code-for-beginners/">
+  <img src="./images/claude-code-course.png" width="85%" alt="Claude Code for Beginners Course" />
+</a>
+
+<br><br>
+
 ### Claude Code for Beginners
 
 **Learn Claude Code by building something real.**
+
+</div>
 
 In my Claude Code for Beginners course, you'll build **Battleground**, an AI-powered app where any two fighters can go head-to-head and AI decides who wins.
 
@@ -45,7 +59,11 @@ You'll learn to work with Claude Code, generate custom artwork, customize your a
 
 No prior Claude Code experience needed.
 
+<div align="center">
+
 [![Explore the Course](https://img.shields.io/badge/Explore_the_Course-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)](https://zerotomastery.io/courses/claude-code-for-beginners/)
+
+</div>
 
 ---
 
@@ -78,10 +96,6 @@ From exploring the latest AI tools and workflows to breaking down complex progra
   <img src="https://api.daily.dev/devcards/v2/DCa9uXvz1i8hDrgPIOx0N.png?r=aqm" width="320" alt="Aldo's daily.dev card" />
 </a>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=aldopaganijr&theme=dark&hide_border=true&border_radius=8" height="190" alt="GitHub streak stats" />
-
 </div>
 
 ---
@@ -93,4 +107,5 @@ From exploring the latest AI tools and workflows to breaking down complex progra
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aldopaganijr.aldopaganijr" alt="Profile visitors" />
 
 </div>
+
 
