@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./images/profile.jpg" width="100%" alt="Aldo Pagani" />
+<img src="./profile.jpg" width="100%" alt="Aldo Pagani" />
 
 <br><br>
 
@@ -42,7 +42,7 @@ Right now, much of my work revolves around AI, particularly Claude and Claude Co
 <div align="center">
 
 <a href="https://zerotomastery.io/courses/claude-code-for-beginners/">
-  <img src="./images/claude-code-course.png" width="85%" alt="Claude Code for Beginners Course" />
+  <img src="./claude-code-course.png" width="85%" alt="Claude Code for Beginners Course" />
 </a>
 
 <br><br>
